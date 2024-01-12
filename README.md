@@ -5,3 +5,9 @@ without token
 token created
 
 ![Alt text](https://raw.githubusercontent.com/abhijit737/JWT_Auth_DotnetCore/main/JWTTokenUser/token_credentials%20filled.png)
+
+
+
+Token Generated
+
+![Token Generated Example](https://raw.githubusercontent.com/abhijit737/JWT_Auth_DotnetCore/main/JWTTokenUser/Token_generated%201.png)
