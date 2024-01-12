@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RFIkBRAh1WrbSJfPYSk60re5Fpj55Gc9r7ljiJsEYQI=",
+  "Source": "JWT_Dotnet",
+  "BasePath": "_content/JWT_Dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
